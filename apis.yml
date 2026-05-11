@@ -38,6 +38,10 @@ common:
     url: https://parkpow.com/
   - type: Documentation
     url: https://app.parkpow.com/documentation/
+  - type: Integrations
+    url: https://parkpow.com/integrations
+integrations:
+  - name: Plate Rec to ParkPow
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
