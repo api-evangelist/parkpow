@@ -34,6 +34,10 @@ apis:
       - type: Website
         url: https://parkpow.com/
 common:
+  - type: GitHubOrganization
+    url: https://github.com/parkpow
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/parkpow
   - type: Website
     url: https://parkpow.com/
   - type: Documentation
