@@ -34,6 +34,10 @@ apis:
       - type: Website
         url: https://parkpow.com/
 common:
+  - type: DomainSecurity
+    url: security/parkpow-domain-security.yml
+  - url: https://parkpow.com/feed/
+    type: Blog
   - type: GitHubOrganization
     url: https://github.com/parkpow
   - type: LinkedIn
