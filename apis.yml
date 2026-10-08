@@ -57,6 +57,12 @@ apis:
       - type: Website
         url: https://parkpow.com/
 common:
+  - type: Plans
+    url: plans/parkpow-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/parkpow-rate-limits.yml
+  - type: FinOps
+    url: finops/parkpow-finops.yml
   - type: DomainSecurity
     url: security/parkpow-domain-security.yml
   - url: https://parkpow.com/feed/
